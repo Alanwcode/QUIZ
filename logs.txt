@@ -1,0 +1,8 @@
+[Mon Aug 16 19:57:14 2021
+	 <User-try-to-log> ][Mon Aug 16 19:57:37 2021
+	 <student-log> ][Mon Aug 16 19:57:43 2021
+	 <menu-input | 3> | [Mon Aug 16 19:57:49 2021
+	 <checkA-menu-input | 5> | [Mon Aug 16 19:58:19 2021
+	 <menu-input | 0> | 
+
+[<END>]

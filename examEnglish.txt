@@ -1,0 +1,108 @@
+The thief was sent to ----- prison
+a
+an
+no article
+the
+4
+----- meat you cooked tasted good
+a
+an
+the
+no article
+3
+Our city will have ----- university soon
+a
+an
+the
+no article
+1
+Prasanna has a gruff voice.
+rougher
+rough
+mild
+milder
+3
+Many policians parry questions asked by newspaper reporters.
+answer
+ward off
+evasive
+face
+4
+There were copious rains.
+scanty
+plenty
+sufficient
+scarcity
+1
+Angels descend from the heaven.
+increase
+ascend
+gallop
+come down
+2
+Mala looks pretty.
+ugly
+fine
+fairly
+unimpressive
+1
+The mist engulfed the ship.
+cover
+swallow
+discover
+permeate
+1
+The thief was sent to ----- prison
+a
+an
+no article
+the
+4
+----- meat you cooked tasted good
+a
+an
+the
+no article
+3
+Our city will have ----- university soon
+a
+an
+the
+no article
+1
+Prasanna has a gruff voice.
+rougher
+rough
+mild
+milder
+3
+Many policians parry questions asked by newspaper reporters.
+answer
+ward off
+evasive
+face
+4
+There were copious rains.
+scanty
+plenty
+sufficient
+scarcity
+1
+Angels descend from the heaven.
+increase
+ascend
+gallop
+come down
+2
+Mala looks pretty.
+ugly
+fine
+fairly
+unimpressive
+1
+The mist engulfed the ship.
+cover
+swallow
+discover
+permeate
+1

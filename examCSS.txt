@@ -1,0 +1,120 @@
+If we want define style for an unique element, then which css selector will we use ?
+Id
+text
+class
+name
+1
+If we don't want to allow a floating div to the left side of an element, which css property will we use ?
+margin
+clear
+float
+padding
+2
+Suppose we want to arragnge five nos. of DIVs so that DIV4 is placed above DIV1. Now, which css property will we use to control the order of stack?
+d-index
+s-index
+x-index
+z-index
+4
+If we want to wrap a block of text around an image, which css property will we use ?
+wrap
+push
+float
+align
+3
+If we want to show an Arrow as cursor, then which value we will use ?
+pointer
+default
+arrow
+arr
+2
+If we want to use a nice looking green dotted border around an image, which css property will we use?
+border-color
+border-decoration
+border-style
+border-line
+3
+Which of the following properties will we use to display border around a cell without any content ?
+empty-cell
+blank-cell
+noncontent-cell
+void-cell
+1
+If we want define style for an unique element, then which css selector will we use ?
+Id
+text
+class
+name
+1
+If we don't want to allow a floating div to the left side of an element, which css property will we use ?
+margin
+clear
+float
+padding
+2
+Suppose we want to arragnge five nos. of DIVs so that DIV4 is placed above DIV1. Now, which css property will we use to control the order of stack?
+d-index
+s-index
+x-index
+z-index
+4
+If we want to wrap a block of text around an image, which css property will we use ?
+wrap
+push
+float
+align
+3
+If we want to show an Arrow as cursor, then which value we will use ?
+pointer
+default
+arrow
+arr
+2
+If we want to use a nice looking green dotted border around an image, which css property will we use?
+border-color
+border-decoration
+border-style
+border-line
+3
+Which of the following properties will we use to display border around a cell without any content ?
+empty-cell
+blank-cell
+noncontent-cell
+void-cell
+1
+What should be the table width, so that the width of a table adjust to the current width of the browser window?
+640 pixels
+100%
+full-screen
+1024 px
+2
+If we want to wrap a block of text around an image, which css property will we use ?
+wrap
+push
+float
+align
+3
+If we want to show an Arrow as cursor, then which value we will use ?
+pointer
+default
+arrow
+arr
+2
+If we want to use a nice looking green dotted border around an image, which css property will we use?
+border-color
+border-decoration
+border-style
+border-line
+3
+Which of the following properties will we use to display border around a cell without any content ?
+empty-cell
+blank-cell
+noncontent-cell
+void-cell
+1
+What should be the table width, so that the width of a table adjust to the current width of the browser window?
+640 pixels
+100%
+full-screen
+1024 px
+2

@@ -1,0 +1,120 @@
+What does HTML stand for?
+Home Tool Markup Language
+Hyper Text Markup Laguage
+Hyperlinks and Text Markup Langiage
+Hyper Text Make Language
+2
+How many tags are in a regular element?
+2
+1
+3
+5
+1
+What is the difference between an opening tag and a closing tag?
+Opening tag has a / in front
+Closing tag has a / in front
+There is no difference
+close tag has close keyword
+2
+< br  / > What type of tag is this?
+Break tag
+A broken one
+bro code
+An opening tag
+1
+< body > Is this an opening tag or a closing tag?
+Opening
+Closing
+boath 1 and 2
+none of above
+1
+< / body > Is this an opening tag or a closing tag?
+Opening
+Closing
+boath 1 and 2
+none of above
+2
+ Where is the meta tag only found?
+The last page
+The home page
+The second page
+All 1, 2 and 3
+2
+Which is the correct way to tag an image?
+src=”image.jpg/gif” alt=”type some text”
+Src=”image.jpg/gif” alt=”type some text”
+< img / >
+Empty element
+1
+What is an element that does not have a closing tag called?
+Tag
+Empty element
+open Element
+Closed element
+4
+Which of the following is an example of an empty element?
+< img / >
+< img > < / img >
+< / img>
+<>
+1
+What does HTML stand for?
+Home Tool Markup Language
+Hyper Text Markup Laguage
+Hyperlinks and Text Markup Langiage
+Hyper Text Make Language
+2
+How many tags are in a regular element?
+2
+1
+3
+5
+1
+What is the difference between an opening tag and a closing tag?
+Opening tag has a / in front
+Closing tag has a / in front
+There is no difference
+close tag has close keyword
+2
+< br  / > What type of tag is this?
+Break tag
+A broken one
+bro code
+An opening tag
+1
+< body > Is this an opening tag or a closing tag?
+Opening
+Closing
+boath 1 and 2
+none of above
+1
+< / body > Is this an opening tag or a closing tag?
+Opening
+Closing
+boath 1 and 2
+none of above
+2
+ Where is the meta tag only found?
+The last page
+The home page
+The second page
+All 1, 2 and 3
+2
+Which is the correct way to tag an image?
+src=”image.jpg/gif” alt=”type some text”
+Src=”image.jpg/gif” alt=”type some text”
+< img / >
+Empty element
+1
+What is an element that does not have a closing tag called?
+Tag
+Empty element
+open Element
+Closed element
+4
+Which of the following is an example of an empty element?
+< img / >
+< img > < / img >
+< / img>
+<>
+1
